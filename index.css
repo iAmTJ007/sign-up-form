@@ -21,3 +21,20 @@
     max-width: 10%;
     height: auto;
 }
+.footer button{
+ 
+    
+    
+    border: 5px solid rgb(40, 228, 69);
+    padding: 15px;
+    margin: 10px;
+    
+    
+}
+.footer button:hover{
+    background-color: rgb(29, 185, 29);
+    border-color: rgb(28, 188, 28);
+    color: white;
+    
+
+}
